@@ -4,8 +4,13 @@
 *.fls
 *.synctex.gz
 *.log
-
+*.pdf
 .DS_Store
 
 out/*
 !out/*.pdf
+figures/
+docs/
+references/
+# LaTeX build outputs
+out/
